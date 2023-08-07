@@ -1,0 +1,16 @@
+C:\Users\EMMAN\Documents\Download\Log4Net_Vb.Net-main\Log4Net_Vb.Net-main\Log4Net_VBdotNet\bin\Debug\log4net.config
+C:\Users\EMMAN\Documents\Download\Log4Net_Vb.Net-main\Log4Net_Vb.Net-main\Log4Net_VBdotNet\bin\Debug\Log4Net_VBdotNet.exe.config
+C:\Users\EMMAN\Documents\Download\Log4Net_Vb.Net-main\Log4Net_Vb.Net-main\Log4Net_VBdotNet\bin\Debug\Log4Net_VBdotNet.exe
+C:\Users\EMMAN\Documents\Download\Log4Net_Vb.Net-main\Log4Net_Vb.Net-main\Log4Net_VBdotNet\bin\Debug\Log4Net_VBdotNet.pdb
+C:\Users\EMMAN\Documents\Download\Log4Net_Vb.Net-main\Log4Net_Vb.Net-main\Log4Net_VBdotNet\bin\Debug\Log4Net_VBdotNet.xml
+C:\Users\EMMAN\Documents\Download\Log4Net_Vb.Net-main\Log4Net_Vb.Net-main\Log4Net_VBdotNet\bin\Debug\log4net.dll
+C:\Users\EMMAN\Documents\Download\Log4Net_Vb.Net-main\Log4Net_Vb.Net-main\Log4Net_VBdotNet\bin\Debug\log4net.xml
+C:\Users\EMMAN\Documents\Download\Log4Net_Vb.Net-main\Log4Net_Vb.Net-main\Log4Net_VBdotNet\obj\Debug\Log4Net_VBdotNet.vbprojAssemblyReference.cache
+C:\Users\EMMAN\Documents\Download\Log4Net_Vb.Net-main\Log4Net_Vb.Net-main\Log4Net_VBdotNet\obj\Debug\Log4Net_VBdotNet.FRM_Main.resources
+C:\Users\EMMAN\Documents\Download\Log4Net_Vb.Net-main\Log4Net_Vb.Net-main\Log4Net_VBdotNet\obj\Debug\Log4Net_VBdotNet.Resources.resources
+C:\Users\EMMAN\Documents\Download\Log4Net_Vb.Net-main\Log4Net_Vb.Net-main\Log4Net_VBdotNet\obj\Debug\Log4Net_VBdotNet.vbproj.GenerateResource.cache
+C:\Users\EMMAN\Documents\Download\Log4Net_Vb.Net-main\Log4Net_Vb.Net-main\Log4Net_VBdotNet\obj\Debug\Log4Net_VBdotNet.vbproj.CoreCompileInputs.cache
+C:\Users\EMMAN\Documents\Download\Log4Net_Vb.Net-main\Log4Net_Vb.Net-main\Log4Net_VBdotNet\obj\Debug\Log4Net_VBdotNet.vbproj.CopyComplete
+C:\Users\EMMAN\Documents\Download\Log4Net_Vb.Net-main\Log4Net_Vb.Net-main\Log4Net_VBdotNet\obj\Debug\Log4Net_VBdotNet.exe
+C:\Users\EMMAN\Documents\Download\Log4Net_Vb.Net-main\Log4Net_Vb.Net-main\Log4Net_VBdotNet\obj\Debug\Log4Net_VBdotNet.xml
+C:\Users\EMMAN\Documents\Download\Log4Net_Vb.Net-main\Log4Net_Vb.Net-main\Log4Net_VBdotNet\obj\Debug\Log4Net_VBdotNet.pdb
